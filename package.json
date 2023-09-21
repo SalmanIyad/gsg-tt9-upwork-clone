@@ -1,0 +1,37 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.9",
+    "@mui/joy": "^5.0.0-beta.6",
+    "@mui/material": "^5.14.8",
+    "@mui/styled-engine-sc": "^5.14.8",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@types/node": "20.6.0",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "@types/styled-components": "^5.1.27",
+    "axios": "^1.5.0",
+    "bcryptjs-react": "^2.4.6",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.4.19",
+    "next": "13.4.19",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.11.0",
+    "react-redux": "^8.1.2",
+    "styled-components": "^5.3.11",
+    "sweetalert2": "^11.7.28",
+    "typescript": "5.2.2",
+    "yup": "^1.2.0"
+  }
+}
